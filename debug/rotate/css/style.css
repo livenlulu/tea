@@ -590,3 +590,11 @@ font-size: 15px;
   width: 22.5%;
   min-width: 116px;
 }
+
+
+@media screen and (max-width: 665px) {
+#bootstrap-overrides #flogo2 {
+  display:none;
+}
+}
+
