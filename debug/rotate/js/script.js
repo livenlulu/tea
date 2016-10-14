@@ -3,9 +3,9 @@
 // });
 
 
-//   if ($(window).width() <= 588) {
-//     $("#flogo2").hide();
-// };
+  if ($(window).width() <= 588) {
+    $("#flogo2").hide();
+};
 
   if ($(window).width() <= 500) {
     $("#ver").hide();
