@@ -597,11 +597,11 @@ font-size: 15px;
   display:none;
 }
 
-#bootstrap-overrides #ver {
+/*#bootstrap-overrides #ver {
   display:none;
-  padding-right: 15%;
+
   
-}
+}*/
 
 #rside {
   width: 37.5%;
