@@ -583,7 +583,7 @@ font-size: 15px;
   padding-left: 0px;
   padding-right: 0px;
   height: 475px;
-  width: 15%;
+  width: 100%;
 }
 
 #rside {
@@ -591,6 +591,11 @@ font-size: 15px;
   min-width: 116px;
 }
 
+#bootstrap-overrides .col-md-2 .col-xs-2 {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  width: 15% !important;
+}
 
 @media screen and (max-width: 665px) {
 #bootstrap-overrides #flogo2 {
@@ -599,6 +604,7 @@ font-size: 15px;
 
 #bootstrap-overrides #ver {
   display: none;
+  visibility: hidden;
 }
 }
 
