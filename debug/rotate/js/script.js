@@ -3,17 +3,6 @@
 // });
 
 
-  if ($(window).width() <= 588) {
-    $("#flogo2").hide();
-};
-
-  if ($(window).width() <= 500) {
-    $("#ver").hide();
-    $(".btn").width(135);
-    $(".dropdown-menu").width(139);
- 
-};
-
 
 var layer = L.tileLayer('https://api.mapbox.com/styles/v1/livenlulu/ciu0azvas00322in5xzze3u48/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibGl2ZW5sdWx1IiwiYSI6ImNpZ3h0ZzltbzB1cTQ0cG0zamthcno1dmwifQ.vZrmbXCCq15ZVuF6g6vhkA',{
     attribution: ''
