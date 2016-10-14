@@ -583,32 +583,10 @@ font-size: 15px;
   padding-left: 0px;
   padding-right: 0px;
   height: 475px;
-  width: 100%;
+  width: 15%;
 }
-/*
+
 #rside {
   width: 22.5%;
-
-}*/
-
-
-@media screen and (max-width: 665px) {
-#bootstrap-overrides #flogo2 {
-  display:none;
+  min-width: 116px;
 }
-
-/*#bootstrap-overrides #ver {
-  display:none;
-
-  
-}*/
-
-/*#rside {
-  width: 37.5%;
-  min-width: 164px;
-}*/
-
-
-}
-
-
