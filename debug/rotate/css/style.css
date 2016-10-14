@@ -598,7 +598,7 @@ font-size: 15px;
 }
 
 #bootstrap-overrides #ver {
-  visibility: hidden;
+  display:none;
   
 }
 
