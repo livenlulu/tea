@@ -588,7 +588,7 @@ font-size: 15px;
 
 #rside {
   width: 22.5%;
-  min-width: 116px;
+
 }
 
 
@@ -601,6 +601,13 @@ font-size: 15px;
   visibility: hidden;
   
 }
+
+#rside {
+  width: 37.5%;
+  min-width: 164px;
+}
+
+
 }
 
 
