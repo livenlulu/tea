@@ -596,10 +596,10 @@ font-size: 15px;
 #bootstrap-overrides #flogo2 {
   display:none;
 }
-}
 
-@media screen and (max-width: 520px) {
 #bootstrap-overrides #ver {
   display: none;
 }
+}
+
 
