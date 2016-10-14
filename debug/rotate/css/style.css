@@ -598,24 +598,8 @@ font-size: 15px;
 }
 }
 
-
 @media screen and (max-width: 520px) {
 #bootstrap-overrides #ver {
   display: none;
-}
-
-#rside {
-  width: 38%; 
-  min-width: 158px;
-}
-
-#headin2 {
-  font-size: 18px;
-}
-
-#headin3 {
-  margin-left: 40px;
-}
-
 }
 
